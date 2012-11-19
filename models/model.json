@@ -1,0 +1,28 @@
+{
+  "Users":
+  {
+    "id": 1,
+    "username": "tylergraf",
+    "password": "ASDF8WEasdf9sg9eE99SDkeksdfk9ES9SKF9sk9dk9sid9sdkksd9",
+    "email": "tylergraf@gmail.com"
+  },
+  "checkIn": {
+    "userId": 1,
+    "date": "2011-2-12",
+    "tasks": [
+      {
+        "taskId": 1,
+        "checked": false
+      },
+      {
+        "title": "Happy",
+        "checked": false
+      }
+    ]
+  },
+  "tasks": {
+    "id": 1,
+    "name": "Floss"
+  } 
+
+}
